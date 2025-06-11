@@ -1,2 +1,3 @@
-# Hello-World
-First test
+# Hello World
+
+This is my first GitHub project!
